@@ -14,6 +14,12 @@
 .target
 target/classes/application.properties
 
+#Maven embedded
+.mvn
+mvnw.*
+mvnw
+
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
